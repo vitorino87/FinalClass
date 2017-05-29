@@ -4,8 +4,11 @@
  * and open the template in the editor.
  */
 package finalclass;
+/*Qua a diferença entre:
 import static java.lang.Math.*;
 import java.lang.Math.*;
+?
+*/
 /**
  *
  * @author tiago.lucas
